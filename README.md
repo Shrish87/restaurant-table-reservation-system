@@ -7,7 +7,7 @@ including double-bookings, lack of real-time availability tracking, and ineffici
 management. By automating manual reservation processes, the system enhances both customer
 satisfaction and restaurant operational efficiency through real-time tracking and comprehensive
 validation mechanisms.
-Real-Time Application Requirements
+Real-Time Application Requirements:
 1. Customer Management System
 Functional Requirements:
 ● Add customer during booking with seamless registration
