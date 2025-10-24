@@ -1,0 +1,1 @@
+--module-path /Users/Karthick/College/Project/JavaDBMSProject/javafx-sdk-21.0.8/lib --add-modules javafx.controls,javafx.fxml 
